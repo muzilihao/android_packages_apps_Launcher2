@@ -1,10 +1,10 @@
 ## A New Post
 	
     @requires_authorization
-class SomeClass:
+	class SomeClass:
     pass
 
-if __name__ == '__main__':
+	if __name__ == '__main__':
     # A comment
     print 'hello world'
 
